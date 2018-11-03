@@ -2025,9 +2025,13 @@ input, select, textarea {
 				}
 
     #map {
-        height: 400px;
+        height: 500px;
         width: 100%;
       }
+
+    .mapcaption {
+        text-align: center;
+    }
 
 	footer {
 		text-align: center;
