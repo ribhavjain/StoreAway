@@ -168,7 +168,7 @@ input, select, textarea {
 	hr {
 		border: 0;
 		border-top: solid 1px rgba(224, 224, 224, 0.75);
-		margin-bottom: 1.5em;
+		margin-bottom: 2.5em;
 	}
 
 	blockquote {
@@ -1973,7 +1973,7 @@ input, select, textarea {
 			border-color: rgba(224, 224, 224, 0.75);
 			border-style: solid;
 			border-top-width: 1px;
-			margin-bottom: 6em;
+			margin-bottom: 1.5em;
 			padding: 4em 0;
 			position: relative;
 		}
@@ -2042,7 +2042,7 @@ input, select, textarea {
 			border-color: rgba(224, 224, 224, 0.75);
 			border-style: solid;
 			border-top-width: 1px;
-			margin-top: 6em;
+			margin-top: 2.5em;
 			padding: 4em 0;
 			position: relative;
 		}
@@ -2249,7 +2249,7 @@ input, select, textarea {
 			}
 
 			.image.icon:hover:after {
-				opacity: 0.5;
+				opacity: 0.2;
 			}
 
 	span.image.icon {
@@ -2587,7 +2587,7 @@ input, select, textarea {
 	.box {
 		background: #ffffff;
 		border: solid 1px rgba(224, 224, 224, 0.75);
-		margin-bottom: 6em;
+		margin-bottom: 2.5em;
 		padding: 3.5em;
 	}
 
@@ -2977,7 +2977,7 @@ input, select, textarea {
 		/* Section/Article */
 
 			header.major {
-				margin-bottom: 4em;
+				margin-bottom: 2.5em;
 				padding: 3em 0;
 			}
 
@@ -2986,7 +2986,7 @@ input, select, textarea {
 				}
 
 			footer.major {
-				margin-top: 4em;
+				margin-top: 2.5em;
 				padding: 3em 0;
 			}
 
@@ -2994,7 +2994,7 @@ input, select, textarea {
 
 			.box {
 				padding: 2.5em;
-				margin-bottom: 4em;
+				margin-bottom: 2.5em;
 			}
 
 		/* Feature */
