@@ -2748,23 +2748,22 @@ input, select, textarea {
 		}
 
 		#header .logo {
-			background: #efca60;
+			background: #F54C28;
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
 			display: inline-block;
-			font-size: 2.25em;
-			height: 2.35em;
+			font-size: 3.25em;
+			height: 1.35em;
 			line-height: 2.35em;
 			margin: 0 0 0.75em 0;
 			text-align: center;
-			width: 2.35em;
+			width: 1.35em;
 		}
 
 			#header .logo.fa-dropbox:before {
 /*				* left: -0.075em; **/
 				position: relative;
-                width = 20em;
 			}
 
 		#header h1 {
