@@ -2728,7 +2728,7 @@ input, select, textarea {
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #a58855;
+				color: #F54C28;
 			}
 
 		#header strong, #header b {
@@ -2744,11 +2744,11 @@ input, select, textarea {
 		#header input[type="button"],
 		#header .button {
 			background: #ffffff;
-			color: #544d55;
+			color: #F54C28;
 		}
 
 		#header .logo {
-			background: #4eb980;
+			background: #efca60;
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
@@ -2761,9 +2761,10 @@ input, select, textarea {
 			width: 2.35em;
 		}
 
-			#header .logo.fa-paper-plane-o:before {
-				left: -0.075em;
+			#header .logo.fa-dropbox:before {
+/*				* left: -0.075em; **/
 				position: relative;
+                width = 20em;
 			}
 
 		#header h1 {
@@ -2781,7 +2782,7 @@ input, select, textarea {
 
 	#footer {
 		background-attachment: scroll;
-		background-color: #a58855;
+		background-color: #F54C28;
 		background-image: url("images/bottom-3200.svg");
 		background-position: top center;
 		background-repeat: repeat-x;
@@ -2832,7 +2833,7 @@ input, select, textarea {
 		#footer .button {
 			background: #ffffff;
 			box-shadow: inset 0 0 0 1px #ffffff;
-			color: #a58855;
+			color: #F54C28;
 		}
 
 			#footer input[type="submit"]:hover,
