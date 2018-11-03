@@ -2249,7 +2249,7 @@ input, select, textarea {
 			}
 
 			.image.icon:hover:after {
-				opacity: 0.2;
+				opacity: 0;
 			}
 
 	span.image.icon {
